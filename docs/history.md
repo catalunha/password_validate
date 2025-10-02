@@ -3,3 +3,4 @@ catalunha@pop-os:~/apps/academiadoflutter$ flutter create --project-name=passwor
 dart pub global activate fvm
 
 
+dart run build_runner watch -d
